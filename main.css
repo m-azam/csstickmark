@@ -1,0 +1,22 @@
+.circle{
+	background-color: #25b659;
+	height: 40px;
+	width: 40px;
+	border-radius: 50%;
+}
+.rect1{
+	height: 11px;
+	width: 3px;
+	background-color: white;
+	-ms-transform: translate(12px, 17px) rotate(-30deg); /* IE 9 */
+    -webkit-transform: translate(12px, 17px) rotate(-30deg); /* Safari */
+    transform: translate(12px, 17px) rotate(-30deg);
+}
+.rect2{
+	height: 20px;
+	width: 3px;
+	background-color: white;
+	-ms-transform: translate(21px, 0px) rotate(55deg);
+    -webkit-transform: translate(21px, 0px) rotate(55deg);
+    transform: translate(21px, 0px) rotate(55deg);
+}
